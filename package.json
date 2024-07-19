@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Infini~X",
   "description": "A Simple WhatsApp Bot Created by InfiniX",
   "version": "1.8.0",
   "main": "index.js",
@@ -11,13 +11,13 @@
   "keywords": [
    "termux",
    "whatsapp",
-   "MD",
-   "Phoenix-MD",
-   "WhatsApp-MD",
-   "baileys-md",
+   "X",
+   "Infini~X",
+   "WhatsApp-X",
+   "baileys-X",
    "wa-bot",
    "bot",
-   "bot-md",
+   "bot-X",
    "terumx-bot",
    "multi-device"
   ],

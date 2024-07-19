@@ -33,9 +33,6 @@ Description : ${i.desc}\`\`\``
 
       let menu = `╭───❮ *${BOT_NAME}* ❯
 │ *ᴏᴡɴᴇʀ* :  ${OWNER_NAME}
-│ *ᴘʀᴇғɪx* : ${prefix}
-│ *ᴘʟᴀᴛғᴏʀᴍ* : ${hostname().split("-")[0]}
-│ *ᴘʟᴜɢɪɴs* : ${events.commands.length} 
 │ *ʀᴜɴᴛɪᴍᴇ* : ${runtime} 
 ╰─────────────⦁\n`;
       let cmnd = [];

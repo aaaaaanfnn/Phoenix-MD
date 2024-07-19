@@ -1,6 +1,6 @@
 {
   "name": "Phoenix-MD",
-  "description": "A Simple WhatsApp Bot",
+  "description": "A Simple WhatsApp Bot Created by InfiniX",
   "version": "1.8.0",
   "main": "index.js",
   "type": "commonjs",
@@ -21,7 +21,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "Infini X",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.7.2",
